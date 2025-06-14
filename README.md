@@ -20,7 +20,7 @@ The design reflects extensive multi-clock domain handling, aggressive skew and u
 ## 🛠 Flow Steps
 
 ### 1. RTL Synthesis (Design Compiler)
-- Synthesized using 10K base standard cells  
+- Synthesized using 36K base standard cells  
 - Clock constraints: `cmp_gclk = 1.1 GHz`, `jbus_gclk = 0.9 GHz`
 - Transition time:  
   - **Data = T/3**  
