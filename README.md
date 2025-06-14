@@ -32,7 +32,7 @@ The design reflects extensive multi-clock domain handling, aggressive skew and u
   - **20% of clock**
 
 ### 2. Floorplanning (ICC2)
-- **84 macros** integrated  
+- **86 macros** integrated  
 - **50% core utilization**  
 - Aspect Ratio: **1.0** (square)  
 - IO placement from **left to right**
